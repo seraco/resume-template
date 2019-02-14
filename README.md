@@ -10,6 +10,7 @@ project, please fork it and then open a Pull Request in order that your changes
 can be integrated in it.
 
 ### Preview
+This is a preview of the resume.
 ![Resume Screenshot](/resume.png)
 
 ### License
